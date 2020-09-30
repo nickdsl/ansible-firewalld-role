@@ -1,2 +1,4 @@
 ---
 firewalld_purge_services: false
+firewalld_enabled: yes
+firewalld_state: started
