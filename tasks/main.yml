@@ -20,4 +20,3 @@
   when: firewalld_state != "stopped"
   tags:
     - firewalld
-    - firewalld.service
